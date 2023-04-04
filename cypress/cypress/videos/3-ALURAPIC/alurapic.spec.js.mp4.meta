@@ -1,0 +1,16 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=4134
+END=5143
+title=Login e resgistro de usuarios alura pic Verifica mensagens validacao
+[CHAPTER]
+TIMEBASE=1/1000
+START=5479
+END=6154
+title=Login e resgistro de usuarios alura pic Verifica email invalido
+[CHAPTER]
+TIMEBASE=1/1000
+START=6128
+END=6831
+title=Login e resgistro de usuarios alura pic Verifica senha invalida
